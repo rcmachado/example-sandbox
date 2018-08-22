@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [2.0.0] - 2018-08-22
+## [2.0.3] - 2018-08-22
 ### Added
 - Feature 1
 
@@ -32,6 +32,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - `show` command to show a specific version
 
 [Unreleased]: https://github.com/rcmachado/changelog/compare/0.0.1...HEAD
-[2.0.0]: https://github.com/rcmachado/changelog/compare/0.0.1...2.0.0
+[2.0.3]: https://github.com/rcmachado/changelog/compare/0.0.1...2.0.3
 [0.2.0]: https://github.com/rcmachado/changelog/compare/0.1.0...0.2.0
 [0.1.0]: https://github.com/rcmachado/changelog/compare/ae761ff...0.1.0
