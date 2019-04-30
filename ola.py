@@ -1,4 +1,4 @@
-def a():
+def a(a):
     pass
 
 def b():
