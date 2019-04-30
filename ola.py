@@ -1,5 +1,5 @@
 def a(a):
     pass
 
-def b():
+def b(b):
     pass
