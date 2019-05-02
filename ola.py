@@ -1,5 +1,5 @@
 def a(a):
     pass
-# dummy
+# dummy 2
 def b(b):
     pass
